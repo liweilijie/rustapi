@@ -10,11 +10,11 @@
   },
 
   "database": {
-    "uri": "mongodb://localhost:27017",
+    "uri": "mongodb://sub:27017",
     "name": "rustapi"
   },
 
   "auth": {
-    "secret": "secret"
+    "secret": "sbso129129"
   }
 }

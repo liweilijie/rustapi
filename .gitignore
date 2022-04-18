@@ -15,3 +15,4 @@ Cargo.lock
 # Environment variables
 .env
 config/local
+.idea
